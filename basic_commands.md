@@ -103,7 +103,7 @@
   </tr>
   <tr>
     <td>Добавление удалённого репозитория</td>
-    <td>git remote add awesomeapp https://github.com/someurl..</td>
+    <td>git remote add awesomeapp https://github.com/...</td>
     </tr>
   <tr>
     <td>Получение дополнительных сведений об удалённом репозитории</td>
